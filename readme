@@ -1,0 +1,15 @@
+this is the simple code example for train and test
+实验数据集1 ArXiv dataset: [Download](https://drive.google.com/file/d/1K2kDBTNXS2ikx9xKmi2Fy0Wsc5u_Lls0/view?usp=sharing)  
+实验数据集2 PubMed dataset: [Download](https://drive.google.com/file/d/1Sa3kip8IE0J1SkMivlgOwq1jBgOnzeny/view?usp=sharing)
+运行环境：
+
+1 data_process.py文件是原数据集处理代码
+
+2 data_process_t.py 文件是毕业论文第五章数据集处理代码
+
+3 rouge.py 是计算摘要rouge的代码
+
+4 train.py 是训练代码
+
+5 test.py 是测试代码
+
